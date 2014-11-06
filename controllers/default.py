@@ -14,7 +14,7 @@ def index():
 
 def get_songs():
     rows = db(db.songs).select()
-    return rows.json()
+    return rows.sort(lambda row: row.title).json()
 
 def old_index():
     response.flash = T("Welcome to web2py!")
