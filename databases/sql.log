@@ -1,0 +1,7 @@
+timestamp: 2014-11-05T22:01:10.225734
+CREATE TABLE songs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title CHAR(200),
+    artist CHAR(200)
+);
+success!

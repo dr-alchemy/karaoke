@@ -10,13 +10,13 @@
 #########################################################################
 
 def index():
-    """
-    example action using the internationalization operator T and flash
-    rendered by views/default/index.html or views/generic.html
+    return dict(message=T('Hello Karaoke'))
 
-    if you need a simple wiki simply replace the two lines below with:
-    return auth.wiki()
-    """
+def get_songs():
+    rows = db(db.songs).select()
+    return rows.json()
+
+def old_index():
     response.flash = T("Welcome to web2py!")
     return dict(message=T('Hello World'))
 

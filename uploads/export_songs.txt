@@ -1,0 +1,1738 @@
+songs.id,songs.title,songs.artist
+1,Donde Iran,5A Estacion, La
+2,Tu Peor Error,5A Estacion, La
+3,Perdicion,5a Estacion, La
+4,Me Muero,5a Estacion, La
+5,La Pareja Ideal,A Solis-Marisela
+6,Si Una Vez,A.B. Quintanilla
+7,Todo Me Gusta De Ti,Aaron y Su Grupo Ilusion
+8,El Diario De Daniela,Adrian Posse
+9,Granada,Agustin Lara
+10,Aquel Amor,Agustin Lara
+11,Farolito,Agustin Lara
+12,Veracruz,Agustin Lara
+13,Mujer,Agustin Lara
+14,Rival,Agustin Lara
+15,Piensa En Mi,Agustin Lara
+16,Solamente Una Vez,Agustin Lara
+17,Arrancame la Vida,Agustin Lara
+18,Aventurera,Agustin Lara
+19,Noche De Ronda,Agustin Lara
+20,Palabras De Mujer,Agustin Lara
+21,La Cumbancha,Agustin Lara
+22,Maria Bonita,Agustin Lara
+23,Farolito,Agustin Lara
+24,Veracruz,Agustin Lara
+25,Solamente Una Vez,Agustin Lara
+26,Amor De Mis Amores,Agustin Lara
+27,Mujer,Agustin Lara
+28,Noche De Ronda,Agustin Lara
+29,La Cumbacha,Agustin Lara
+30,Rosa,Agustin Lara
+31,Escarcha,Agustin Lara
+32,Aventurera,Agustin Lara
+33,Santa,Agustin Lara
+34,Colina Azul,Al Lewis
+35,Si Te Vuelves a Enamorar,Alacarnes Musical
+36,Y Volvere,Alain Barriere
+37,Y Volvere,Alain Barriere
+38,Prieta Casada,Albert Zamora
+39,Costumbres,Alberto Aguilera
+40,Mi Arbol y Yo,Alberto Cortez
+41,No Soy De Aquí Ni Soy De Alla,Alberto Cortez
+42,Mi Arbol y Yo,Alberto Cortez
+43,Cuando Un Amigo Se Va,Alberto Cortez
+44,En Un Rincon del Alma,Alberto Cortez
+45,Castillos En el Aire,Alberto Cortez
+46,Callejero,Alberto Cortez
+47,En Un Rincon del Alma,Alberto Cortez
+48,Mi Arbol y Yo,Alberto Cortez
+49,Mariana,Alberto Cortez
+50,Gracias a la Vida,Alberto Cortez
+51,Los Ejes De Mi Carreta,Alberto Cortez
+52,A Partir De Mañana,Alberto Cortez
+53,Castillos En el Aire,Alberto Cortez
+54,Cuando Un Amigo Se Va,Alberto Cortez
+55,Distancia,Alberto Cortez
+56,En Un Rincon del Alma,Alberto Cortez
+57,Gracias a la Vida,Alberto Cortez
+58,Mi Arbol y Yo,Alberto Cortez
+59,No Soy De Aqui Ni Soy De Alla,Alberto Cortez
+60,Perfidia,Alberto Dominguez
+61,La Guaracha Sabrosona,Alberto Pedraza
+62,El Pecador,Alberto Vazquez
+63,Olvidalo,Alberto Vazquez
+64,Para Decir Adios,Alberto Vazquez-Estela N
+65,Si la Invitara Esta Noche,Alberto Vazquez-Lety Salli
+66,Mala Hierba,Alejandra Guzman
+67,Toda la Mitad,Alejandra Guzman
+68,Volverte a Amar,Alejandra Guzman
+69,Soy Solo Un Secreto,Alejandra Guzman
+70,Mirala Miralo,Alejandra Guzman
+71,Amigos Por Siempre,Alejandro Abaroa
+72,Si He Sabido Amor,Alejandro Fernanado
+73,Como Quien Pierde Una Estrella,Alejandro Fernandez
+74,Que Bueno,Alejandro Fernandez
+75,Que Seas Muy Feliz,Alejandro Fernandez
+76,Ojo Por Ojo,Alejandro Fernandez
+77,Nube Viajera,Alejandro Fernandez
+78,Loco,Alejandro Fernandez
+79,Que Sera De Mi,Alejandro Fernandez
+80,Llorando Penas,Alejandro Fernandez
+81,Me Dedique a Perderte,Alejandro Fernandez
+82,Me Dediqué a Perderte,Alejandro Fernandez
+83,Como Quien Pierde Una Estrella,Alejandro Fernandez
+84,Me Dedique a Perderte,Alejandro Fernandez
+85,Tantita Pena,Alejandro Fernandez
+86,Si Tu No Vuelves,Alejandro Fernandez
+87,En el Jardin,Alejandro Fernandez
+88,Me Estoy Enamorando,Alejandro Fernandez
+89,Que Voy A Hacer Con Mi Amor,Alejandro Fernandez
+90,No Se Me Hace Facil,Alejandro Fernandez
+91,Te Voy A Perder,Alejandro Fernandez
+92,El Jardin De los Recuerdos,Alejandro Fernandez-Gloria E
+93,En el Jardin,Alejandro Fernandez-Gloria Estefan
+94,Vas a Acordarte De Mi,Alejandro Jaen
+95,Mayonesa,Alejandro Jassa
+96,Todo a Pulmon,Alejandro Lerner
+97,No Hace Falta,Alejandro Lerner
+98,Corazon Partio,Alejandro Sanz
+99,Y Solo Se Me Ocurre Amarte,Alejandro Sanz
+100,Aprendiz,Alejandro Sanz
+101,Corazon Partio,Alejandro Sanz
+102,A la Primera Persona,Alejandro Sanz
+103,Te Lo Agradezco Pero No,Alejandro Sanz & Shakira
+104,No Podras,Alejandro Zepeda
+105,Triste Cancion De Amor,Alejandrolora
+106,Bendito Tu Corazon,Aleks Syntek
+107,Duele el Amor,Aleks Syntek  Ana Torroja
+108,Triste Cancion,Alex Lora
+109,Sexo Pudor y Lagrimas,Alex Sintek
+110,Dame Tu Aire,Alex Ubago
+111,Dame Tu Aire,Alex Ubago
+112,Siempre En Mi Mente,Alex Ubago
+113,Sin Miedo a Nada,Alex Ubago Natali
+114,Tu Ausencia,Alicia Villa Real-David Bisbal
+115,Solo Contigo,Alicia Villarreal
+116,Duele el Amor,Alks Syntec
+117,La Ventanita,Almanza Miguel
+118,Dejenme Si Estoy Llorando,Alonso Curiet
+119,Dejenme Si Estoy Llorando,Alonso Curiet Nelson Ned
+120,Esa Chica Me Vacila,Alson Becket
+121,Peleas,Altemar Dutra
+122,La Mentira,Alvaro Carrillo
+123,Un Poco Mas,Alvaro Carrillo
+124,Sabor a Mi,Alvaro Carrillo
+125,Paris,Amala Montero
+126,Mi Buen Corazon,Amanda Miguel
+127,Mi Buen Corazon,Amanda Miguel
+128,Bandido,Ana Barbara
+129,La Trampa,Ana Barbara
+130,Me Gusta Pero Me Asusta,Ana Barbara
+131,Loca,Ana Barbara
+132,Mala,Ana Barbara
+133,Nada,Ana Barbara
+134,Te Regalo la Lluvia,Ana Barbara
+135,Sacudeme,Ana Barbara
+136,Los Besos No Se Dan En la Camisa,Ana Barbara
+137,Como Me Haces Falta,Ana Barbara
+138,Ya No Te Creo Nada,Ana Barbara
+139,Soledad,Ana Barbara
+140,Pecado Original,Ana Gabriel
+141,Simplemente Amigos,Ana Gabriel
+142,Mar y Arena,Ana Gabriel
+143,Ahora,Ana Gabriel
+144,No a Pedir Perdon,Ana Gabriel
+145,A Pesar De Todos,Ana Gabriel
+146,Ay Amor,Ana Gabriel
+147,Con Un Mismo Corazon,Ana Gabriel
+148,Es Damasiado Tarde,Ana Gabriel
+149,Es el Amor Quien Llega,Ana Gabriel
+150,Evidencias,Ana Gabriel
+151,Hablame De Frente,Ana Gabriel
+152,HuELO a Soledad,Ana Gabriel
+153,Luna,Ana Gabriel
+154,Mar y Arena,Ana Gabriel
+155,Pacto De Amor,Ana Gabriel
+156,Pecado Original,Ana Gabriel
+157,Quien Como Tu,Ana Gabriel
+158,Simplemente Amigos,Ana Gabriel
+159,No Llores Por Mi Argentina,Andrew Lloyd
+160,Love Colada,Andy Marver
+161,Son De Amores,Andy y Lucas
+162,Son De Amores,Andy-Luca
+163,El Choclo,Angel Delfino
+164,Quererte a Ti,Angela Carrasco
+165,Como Te Voy a Olvidar,Angeles Azules
+166,Como Te Voy a Olvidar,Angeles Azules, Los
+167,El Liston De Tu PELO,Angeles Azules, Los
+168,Dejenme Si Estoy Llorando,Angeles Negros, Los
+169,Con Un Beso Pequeñisimo,Angelica Maria
+170,Dont Go Breaking My Heart,Ann Orson
+171,Olvidalo,Antoni Marcel
+172,Tristes Recuerdos,Antonio Aguilar
+173,Y Por Esa Calle Vive,Antonio Aguilar
+174,Albur De Amor,Antonio Aguilar
+175,Anillo Grabado,Antonio Aguilar
+176,Bonita Finca De Adobe,Antonio Aguilar
+177,Indita Mía,Antonio Aguilar
+178,Mi Gusto Es,Antonio Aguilar
+179,Te Ando Siguiendo los Pasos,Antonio Aguilar
+180,Tristes Recuerdos,Antonio Aguilar
+181,Y Por Esa Calle Vive,Antonio Aguilar
+182,Albur De Amor,Antonio Aguilar
+183,Anillo Grabado,Antonio Aguilar
+184,Bonita Finca De Adobe,Antonio Aguilar
+185,Indita Mía,Antonio Aguilar
+186,Mi Gusto Es,Antonio Aguilar
+187,Te Ando Siguiendo los Pasos,Antonio Aguilar
+188,Cancion Del Mariachi,Antonio Banderas   Los Lobos
+189,Como Te Extraño,Antonio Cruz
+190,Macarena,Antonio Romero Monge
+191,Renunciacion,Antonio Valdes Herrera
+192,Lucha De Gigantes,Antonio Vega
+193,Fue En Un Café,Apson Boys, Los
+194,A Fuego Lento,ArabELO R.
+195,Cuando Pierdes Al Hombre Que Amas,Arango
+196,Quien Diria,Arjona
+197,Mujeres,Arjona
+198,La Papa,Armando - Morin
+199,Edi Edi,Armando Campbell
+200,Contigo Aprendi,Armando Manzanero
+201,No Se Tu,Armando Manzanero
+202,Te Extraño,Armando Manzanero
+203,Somos Novios,Armando Manzanero
+204,Felicidad,Armando Manzanero
+205,Por Debajo De la Mesa,Armando Manzanero
+206,Amanecer,Armando Manzanero
+207,Como Duele,Armando Manzanero
+208,Paso a Pasito,Armando Manzanero
+209,Y Despues del Amor,Arturo Castro
+210,Yo Sin Ti,Arturo Castro
+211,La Bala,Arturo Hassan
+212,Te Quiero,Arturo Macias
+213,Por Que No Fui Tu Amigo,Astros, Los
+214,Los Ejes De Mi Carreta,Atahualpa Yupanqui
+215,El Principe,Atazan
+216,Aum,Aum - Loris Ceroni
+217,Muriendo Lento,B Anderson
+218,Ojos Españoles,B. Kaenpfert
+219,Me Piden,Babys, Los
+220,Mambo Lupita,Banda el Mexicano
+221,Pena Tras Pena,Banda el Recodo
+222,La Culebra,Banda Machos
+223,Historia Sin Fin,Banda Machos
+224,Chiquita Bonita,Banda Machos
+225,Me Llamo Raquel,Banda Machos
+226,Tu Eterno Enamorado,Banda Maguey
+227,Surfer Girl,Beach Boys, The
+228,All You Need is Love,Beatles, The
+229,And I Love Her,Beatles, The
+230,Cant Buy Me Love,Beatles, The
+231,Michelle,Beatles, The
+232,Come Together,Beatles, The
+233,Let It Be,Beatles, The
+234,Penny Lane,Beatles, The
+235,She Loves You,Beatles, The
+236,Eleanor Rigby,Beatles, The
+237,Hey Jude,Beatles, The
+238,Get Back,Beatles, The
+239,Yesterday,Beatles, The
+240,Night Fever,Bee Gees
+241,Stay in Alive,Bee Gees
+242,How Deeps is Your Love,Bee Gees
+243,Jive Talkin,Bee Gees
+244,More Than a Woman,Bee Gees
+245,To Love Somebody,Bee Gees
+246,You Should Be Dancing,Bee Gees
+247,Love so Right,Bee Gees
+248,How Can You Mend a Broken Heart,Bee Gees
+249,Alone,Bee Gees
+250,I Started a Joke,Bee Gees
+251,Massachusetts,Bee Gees
+252,Vivir,Belinda
+253,Vivir,Belinda
+254,Nuestro Juramento,Benito De Jesus
+255,Adios a Jamaica,Bergess - Cisneros
+256,A Tu Recuerdo,Bieza Ramirez Pedreros
+257,Just the Way You Are,Billie Joel
+258,Uptown Girl,Billie Joel
+259,No Rompas Mi Corazon,Billy Ray
+260,Don't Fear the Reaper,Blue Oyster Cult
+261,Cant Take My Eyes Off of You,Bob Crewe
+262,La Ultima Noche,Bobby Collazo
+263,Yo Se Que Te Acordaras,Brios, Los
+264,Maybe Baby,Buddy Holly
+265,Falso Amor,Bukis, Los
+266,Verano Peligroso,C. Valle
+267,La Ingrata,Café Tacuba
+268,Lagrimas Negras,Calaveras, Los
+269,Todo Cambio,Camila
+270,Si Tu Te Vas,Camilo Sesto
+271,Donde Estes,Con Quien Estes,Camilo Sesto
+272,Has Nacido Libre,Camilo Sesto
+273,Quieres Ser Mi Amante,Camilo Sesto
+274,Con el Viento a Tu Favor,Camilo Sesto
+275,Has Nacido Libre,Camilo Sesto
+276,Mi Buen Amor,Camilo Sesto
+277,Si Tu Te Vas,Camilo Sesto
+278,Callados,Camilo Sesto
+279,Macondo,Camino Diez Canseco
+280,Colgando En Tus Manos,Carlos Baute & Marta Sanchez
+281,Veronica,Carlos Blanco
+282,Cuesta Abajo,Carlos Gardel
+283,Por Una Cabeza,Carlos Gardel
+284,Mano a Mano,Carlos Gardel
+285,Desde la Trinchera,Carlos Lara
+286,Y Se Que Vas a Llorar,Carlos Maria
+287,Rondando Tu Esquina,Carlos Perez
+288,Solo Tu,Carlos Toro
+289,Fruta Fresca,Carlos Vives
+290,La Gota Fria,Carlos Vives
+291,Puente De Piedra,CarmELO Larrea
+292,El Toro y la Luna,Castellanos Gomez
+293,Historia De Tommy,Cesar Costa
+294,Contigo En la Distancia,Cesar Portillo
+295,Delirio,Cesar Portillo
+296,Fina Estampa,Chabuca Granda
+297,De Quererte Asi,Charles Aznavour
+298,A Que Le Tiras Cuando Suenas Mexicano,Chava Flores
+299,Cerro Sus Ojitos Cleto,Chava Flores
+300,El Gato Viudo,Chava Flores
+301,Ingrata Perjida,Chava Flores
+302,La Bartola,Chava Flores
+303,La Interesada,Chava Flores
+304,La Tertulia,Chava Flores
+305,Las Bodas De Vecindad,Chava Flores
+306,Los Gorrones,Chava Flores
+307,Los Quince Aos De Espergencia,Chava Flores
+308,Sabado Distrito Federal,Chava Flores
+309,Voy En el Metro,Chava Flores
+310,Dejaria Todo,Chayanne
+311,Salome,Chayanne
+312,Boom Boom,Chayanne
+313,Atado a Tu Amor,Chayanne
+314,Cuidarte el Alma,Chayanne
+315,Te Echo De Menos,Chayanne
+316,Tengo Miedo,Chayanne
+317,Si Nos Quedara Poco Tiempo,Chayanne
+318,Si Tu Te Vas,Cheryl Yie
+319,Puente De Piedra,Chicanos, Los
+320,Debut y Despedida,Chico Navarro
+321,Debut y Despedida,Chico Navarro
+322,Como,Chico Novarro
+323,Mi Vida Sin Tu Amor,Christian
+324,Lloran las Rosas,Christian
+325,Lo Mejor De Mi,Christian
+326,Lloviendo Estrellas,Christian
+327,Mañana,Christian
+328,Azul,Christian
+329,Vuelveme a Querer,Christian
+330,Nunca Voy a Olvidarte,Christian
+331,Agua Nueva,Christian
+332,No Hace Falta,Christian
+333,Por Amarte Asi,Christian
+334,Vuelveme a Querer,Christian
+335,Mi Vida Sin Tu Amor,Christian Castro
+336,Por Amarte Asi,Christian Castro
+337,Volver Amar,Christian Castro
+338,Ven Conmigo,Christina Aguilera
+339,Voice Within, The,Christina Aguilera
+340,Como Antes,Cinco Latinos, Los
+341,Sube Que Baja,Circulo, El
+342,Acabame De Matar,Cirilo Castañeda
+343,Una Mañana,Clare Fisher
+344,Nunca Mas Podre Olvidarte,Clave Borlando Rabal
+345,Mesa Que Mas Aplauda,Climax
+346,La Faldita,Coco Band
+347,Cada Vez Que Resuelles,Conjunto Oro
+348,La Desicion,Conjunto Oro
+349,Vete a Buscar Aquel,Conjunto Oro
+350,El Ausente,ConsuELO Castro
+351,Me Cai De la Nube,Cornelio Reyna
+352,Corre,Corre - Flans
+353,Una Noche,Corrs-Alejandro Sanz, The
+354,Cuanto Te Amo,Costumbre
+355,Esperare,Costumbre
+356,Siluetas,Crewel - Lugo
+357,Tema De Cricri Entrada,Cricri
+358,El Negrito Bailarin,Cricri
+359,Caminito De la Escuela,Cricri
+360,Negrito Sandia,Cricri
+361,El Chorrito,Cricri
+362,Bombon 1,Cricri
+363,La Merienda,Cricri
+364,Raton Vaquero,Cricri
+365,Di Por Que?,Cricri
+366,La Negrita Cucurumbe,Cricri
+367,La Patita,Cricri
+368,Marcha De las Letras,Cricri
+369,El Comal y la Olla,Cricri
+370,El Ropero,Cricri
+371,La Muñeca Fea,Cricri
+372,El Ropavejero,Cricri
+373,Tema De Cricri Salida,Cricri
+374,Amor,Cristian
+375,El Pastor,Cuates Castilla
+376,Cuando Ya No Me Quieras,Cuates Castilla
+377,Anillo De Compromiso,Cuco Sanchez
+378,Gritenme Piedras del Campo,Cuco Sanchez
+379,Pobre del Pobre,Cuco Sanchez
+380,Fallaste Corazon,Cuco Sanchez
+381,Anoche Estuve Llorando,Cuco Sanchez
+382,No Soy Monedita De Oro,Cuco Sanchez
+383,Que Manera De Perder,Cuco Sanchez
+384,Fallaste Corazon,Cuco Sanchez
+385,La Cama De Piedra,Cuco Sanchez
+386,La Colegiala,Cumbia Colombiana
+387,Holiday,Curtis Hudson
+388,Recuerdos De Ipacarai,D. Ortiz
+389,Swing Latino,D.A.R.
+390,Mi Bella Sultana,D.A.R.
+391,El Arca De Noe,D.A.R.
+392,Tiro De Gracia,D.A.R.
+393,Mi Gran Amor,D.A.R.
+394,Como Este Loco,D.A.R.
+395,A Mil X Hora,D.J. Kafka
+396,Gasolina,Daddy Yankeen
+397,Como Un Duende,Dandys, Los
+398,Tres Regalos,Dandys, Los
+399,Mi Amor Es Para Ti,Daniel Lopez
+400,Mi Amor Es Para Ti,Daniel Lopez
+401,Amada Mas Que Nunca,Daniela Romo
+402,Yo No Te Pido la Luna,Daniela Romo
+403,Mentiras,Daniela Romo
+404,La Ocacion Para Amarnos,Daniela Romo
+405,De Mi Enamorate,Daniela Romo
+406,Yo No Te Pido la Luna,Daniela Romo
+407,Declaracion De Amor,Danny
+408,Madrigal,Danny Rivera
+409,Buleria,David Bisbal
+410,Oye el Boom,David Bisbal
+411,Quien Me Iba A Decir,David Bisbal
+412,Esta Ausencia,David Bisbal
+413,Mi Pequeo Lucero,David Lee Garza
+414,Como Camaron,David Muñoz
+415,Temblando,David Summers
+416,La Cumbia del Garrote,Del Garrote, Los
+417,Hoy Ten Miedo De Mi,Delgadillo
+418,Hacer el Amor Con Otro,Di Felisatti
+419,I Will Survive,Dino Fekaris
+420,Ella O Yo,Don Omar
+421,Dale Don Dale,Don Omar
+422,Dile,Don Omar
+423,Tu Fotografia,Don Omar
+424,Perreando,Don Omar
+425,Salvaje,Don Omar
+426,Pobre Diabla,Don Omar
+427,Oye Mama,Don Von Tress
+428,Yo Vendo Unos Ojos Negros,Donato Roman
+429,Aca Entre Nos,Dos Gilbertos, Los
+430,Piensa En Mi,Douglas Malo
+431,Hablar De Ti,DuELO
+432,Tu Muñeca,Dulce
+433,Cara a Cara,Dulce
+434,Heridas,Dulce
+435,Lobo,Dulce
+436,Heridas,Dulce
+437,Tu Muñeca,Dulce
+438,A View to a Kill,Duran Duran
+439,Corazon Magico,Dyango
+440,Cocula,E. Cortazar
+441,Promesa,E. Estefan
+442,Acapulco Rock,Eddie Medina
+443,Primera Vez,Edgar Ricardo
+444,A Media Luz,Edgardo Donato
+445,Ednita Nazario No Te Mentia Po,Ednita Nazario
+446,Un Sueño,Elbert Moguel
+447,Asi Es la Vida,Elefante
+448,El Gusto,Elpidio Ramirez
+449,Don't Go Breaking My Heart,Elton John and Kiki Dee
+450,Suavemente,Elvis Crespo
+451,Suavemente,Elvis Crespo
+452,Bandida,Elvis Crespo
+453,Tu Sonrisa,Elvis Crespo
+454,Pintame,Elvis Crespo
+455,Mil Besos,Ema Elena
+456,Jacaranda,Emilio Galvez
+457,Señora Bonita,Emilio Galvez
+458,Morenita Mia,Emilio Galvez
+459,Consentida,Emilio Galvez
+460,Chacha Linda,Emilio Galvez
+461,Crei,Emilio Galvez
+462,Como Fue?,Emilio Galvez
+463,Gema,Emilio Galvez
+464,Eclipse,Emilio Navaira
+465,Juntos,Emilio Navaira
+466,Ya No Me Pones Atencion,Emilio Navaira
+467,Mucho Corazon,Emma Elena
+468,Toda la Vida,Emmanuel
+469,Quiero Dormir Cansado,Emmanuel
+470,La Ultima Luna,Emmanuel
+471,Detenedla Ya,Emmanuel
+472,Hay Que Arrimar el Alma,Emmanuel
+473,Si Ese Tiempo Pudiera Volver,Emmanuel
+474,Todo Se Derrumbo Dentro De Mi,Emmanuel
+475,Vamos a Amarnos Despacio,Emmanuel
+476,Esa Trsite Guitarra,Emmanuel
+477,Pobre Diablo,Emmanuel
+478,Insoportablemente Bella,Emmanuel
+479,Tu y Yo,Emmanuel
+480,Natalia Lafourcade,En el 2000
+481,Lamento Boliviano,Enanitos Verdes
+482,Dicen Que Dicen,Enrique Delfino
+483,Payasito,Enrique Guzman
+484,Lo Se,Enrique Guzman
+485,Mi Corazon Canta,Enrique Guzman
+486,Te Seguire,Enrique Guzman
+487,Quiero Ser Libre,Enrique Guzman
+488,Uno De Tantos,Enrique Guzman
+489,Dame Felicidad,Enrique Guzman
+490,Si Tu No Vuelves,Enrique Guzman
+491,Si Tu Te Vas,Enrique Iglesias
+492,Por Amarte,Enrique Iglesias
+493,Heroe,Enrique Iglesias
+494,Heroe,Enrique Iglesias
+495,Bailando,Enrique Iglesias
+496,Amor De Estudiante,Enrique Rosas
+497,Uno,Enrique Santos
+498,Yira Yira,Enrique Santos
+499,Esta Noche Me Emborracho,Enrique Santos
+500,Claridad,Enudo
+501,El Apagon,Esperon - Cabañas
+502,No Volvere,Esperon Cortazar
+503,Amor Con Amor Se Paga,Esperon Gonzalez
+504,Sexy Dance,Estefano
+505,Speedy Gonzalez,Ethel Lee Davis
+506,No Te Pido Flores,Fanny Lu
+507,Aprendiste a Volar,Federico Mendez
+508,Yo Sin Tu Amor,Felipo Gil
+509,Alfonsina y el Mar,Felix Luna
+510,Alfonsina y el Mar,Felix Luna
+511,Corazon Espinado,Fer Sherra
+512,Recuerdos De Una Noche,Fernando Arias
+513,Reeda Mi Mente,Fernando Riba
+514,Ni Tu Ni Nadie,Fey
+515,Azucar Amargo,Fey
+516,Mi Media Naranja,Fey
+517,Me Enamoro De Ti,Fey
+518,MuevELO,Fey
+519,Barco a Venus,Fey
+520,Huele a Tristeza,Fher Ed
+521,Como Diablos,Fher Ed
+522,Libro Abierto,Fidel Valadez
+523,Yo Vengo a Ofrecer Mi Corazon,Fito Paez
+524,A Volar,Flans
+525,Bazar,Flans
+526,No Controles,Flans
+527,Timido,Flans
+528,Bazar,Flans
+529,No Controles,Flans
+530,20 Millas,Flans
+531,Las Mil y Una Noches,Flans
+532,Timido,Flans
+533,Corre,Corre,Flans
+534,Cuando el Amor Estalla,Flores
+535,Cuidado Con el Corazon,Flores - Valle
+536,Reina De Corazones,Flores - Valle
+537,La Bartola,Flores Rivera
+538,Hace Tiempo,Fonseca
+539,Te Mando Flores,Fonseca
+540,Adios Pampa Mia,Francisco Canaro
+541,Vida Loca,Francisco Cespedes
+542,Señora,Francisco Cespedes
+543,Asereje,Francisco Manuel
+544,Louis,Franco De Vita
+545,No Basta,Franco De Vita
+546,Tengo,Franco De Vita
+547,A Mi Manera,Francois Revaux
+548,Tu Me Acostumbraste,Frank Dominguez
+549,Tu Inilvidable Sonrisa,Fredys, Los
+550,Dejenme Llorar,Fredys, Los
+551,Me He Quedado Sin Tu Amor,Fredys, Los
+552,La Verdolaga,Fuentes  A. Cervantes
+553,La Verdolaga,Fuentes Gasson
+554,Tu Eres Mi Hombre,G. Rough
+555,Amor Amor Amor,Gabriel Ruiz
+556,Sabes Amor,Garcia Bros
+557,El Dia Que Me Quieras,Gardel Lepera
+558,Te Vas a Acordar,Gary Hobbs
+559,Mi Amiga,Miesposa y Mi Amante,Gaston Ponce C
+560,Carabina 30 30,Genaro Nuñez
+561,Love is in the Air,George Young
+562,Me Acordare De Ti,Gerardo Flores
+563,La Cumparsita,Gerardo Matos Rodriguez
+564,Murio la Flor,Germain De la Fuente / Nano C
+565,Mi Historia Entre Tus Dedos,Gianluca
+566,Solo Le Pido a Dios,Gieco Raul Alberto
+567,Ayer,Gilberto Santa Rosa
+568,Bamboleo,Gipsy Kings
+569,Pera Madura,Giussepe Donaggio
+570,Con los Años Que Me Quedan,Gloria Estefan
+571,No Me Vuelvo a Enamorar,Gloria Estefan
+572,Si Voy a Perderte,Gloria Estefan
+573,Puedes Llegar,Gloria Estefan
+574,Por Un Beso,Gloria Estefan
+575,Angel,Gloria Estefan Jon Secada
+576,El Recuento De los Daños,Gloria Trevi
+577,PELO Suelto,Gloria Trevi
+578,Me Siento Sola,Gloria Trevi
+579,La Papa Sin Catsup,Gloria Trevi
+580,Tu Angel De la Guarda,Gloria Trevi
+581,Dr. Siquiatra,Gloria Trevi
+582,Con los Ojos Cerrados,Gloria Trevi
+583,Brincan los Borregos,Gloria Trevi
+584,Hoy Me Ire De Casa,Gloria Trevi
+585,Zapatos Viejos,Gloria Trevi
+586,Siempre a Mi,Gloria Trevi
+587,Que Voy Hacer Sin El,Gloria Trevi
+588,El Recuento De los Daños,Gloria Treviño
+589,Zapatos Viejos,Gloria Treviño
+590,PELO Suelto,Gloria Treviño
+591,Forever Young,Gold
+592,Quiereme Mucho,Gonzalo Roig
+593,Usted,Grabriel Ruiz
+594,Something that I Want,Grace Potter and the Nocturnals
+595,Agujetas De Color De Rosa,Grant - Cisneros
+596,Calendario De Amor,Grenfield
+597,Tiene Espinas el Rosal,Grupo Cañaveral
+598,Hasta el CiELO Lloro,Grupo Cañaveral
+599,Sin Tu Amor,Grupo Indio
+600,El Peor De Mis Fracasos,Grupo Montes De Durango
+601,Lagrmas De Cristal,Grupo Montez De Durango
+602,Lagrimillas Tontas,Grupo Montez De Durango
+603,El Gigante De Hierro,Grupo Soñador
+604,CiELO,Guillermo Mendez
+605,Te Ofrezco Un Corazon,Gustavo Adolfo
+606,Vamos a Platicar,Hector Meneses
+607,No Son Palabritas,Heleno
+608,Lagrimas De Cristal,Hermanos Carrion
+609,Como No Voy A Decir (Llanera),Hermes Moreno
+610,Como Te Va Mi Amor,Hernaldo Zuñiga
+611,Auld Lang Syne,Holiday (Various)
+612,Away in a Manger,Holiday (Various)
+613,Do They Know It's Christmas,Holiday (Various)
+614,White Christmas,Holiday (Various)
+615,Jingle Bell Rock,Holiday (Various)
+616,Grandpa Got Run Over by a John Deere,Holiday (Various)
+617,Deck the Halls,Holiday (Various)
+618,Do You Hear What I Hear,Holiday (Various)
+619,Grandma Got Run Over by a Reindeer,Holiday (Various)
+620,Blue Christmas,Holiday (Various)
+621,If Every Day Was Like Christmas,Holiday (Various)
+622,Ave Maria,Holiday (Various)
+623,Frosty the Snowman,Holiday (Various)
+624,Rudolph the Red Nosed Reindeer,Holiday (Various)
+625,God Rest Ye Merry Gentlemen,Holiday (Various)
+626,Hark! the Herald Angels Sing,Holiday (Various)
+627,Have Yourself a Merry Little Christmas,Holiday (Various)
+628,Here Comes Santa Claus,Holiday (Various)
+629,I Saw Mommy Kissing Santa Claus,Holiday (Various)
+630,I'll Be Home for Christmas,Holiday (Various)
+631,It's Beginning to Look a Lot Like Christmas,Holiday (Various)
+632,Jingle Bells,Holiday (Various)
+633,Joy to the World,Holiday (Various)
+634,Let It Snow, Let It Snow, Let It Snow,Holiday (Various)
+635,Little Drommer Boy,Holiday (Various)
+636,The Christmas Song (Chestnuts Roasting),Holiday (Various)
+637,O Come All Ye Faithful,Holiday (Various)
+638,O Holy Night,Holiday (Various)
+639,O Little Town of Bethlehem,Holiday (Various)
+640,Winter Wonderland,Holiday (Various)
+641,Santa Claus is Coming to Town,Holiday (Various)
+642,Silent Night,Holiday (Various)
+643,Silver Bells,Holiday (Various)
+644,Chipmunk Song,Holiday (Various)
+645,The First Noel,Holiday (Various)
+646,Snoopy Vs the Red Baron,Holiday (Various)
+647,Snoopy's Christmas,Holiday (Various)
+648,Twelve Days of Christmas,Holiday (Various)
+649,We Three Kings,Holiday (Various)
+650,We Wish You a Merry Christmas,Holiday (Various)
+651,What Child is This,Holiday (Various)
+652,White Christmas,Holiday (Various)
+653,Devuelveme a Mi Chica,Hombres G
+654,Dos Gatos,Home Town Boys, The
+655,Obsesion,Horoscopos De Durango, Los
+656,Dos Locos,Horoscopos De Durango, Los
+657,Let It Go,Idina Menzel
+658,Abrazame,Iglesias
+659,New York,New York,Internacional
+660,Paris,Internacional
+661,Chiqitita,Internacional
+662,Te Quiero Tal Como Eres,Internacional
+663,Falsas Esperanzas,Internacional
+664,La Cosa Mas Bella,Internacional
+665,Cuando No Es Contigo,Internacional
+666,Una Mañana,Internacional
+667,El Triste,Internacional
+668,Señora De las 4 Decadas,Internacional
+669,Aire,Intocable
+670,Llego la Fiesta,Ivonne Guevara
+671,Muchachita,J. Fuller
+672,Como Hemos Cambiado,J. L. Jimenez
+673,Cancion Mixteca,J. Lopez Alaves
+674,Nos Podemos Escapar,J. M. Puron
+675,Motivos,J.D. Castaño
+676,Eungenio Salvador Dali,J.M. Cano
+677,Provocame,J.V. Katwijk
+678,Como Te Llamas Paloma,Jaime De Anda
+679,Morenamia,Jan Francisco Ferrati
+680,Yo Se Que Te Acordaras,Javier Manriquez
+681,Una Aventura,Javier Martinez
+682,Entrega Total,Javier Solis
+683,Payaso,Javier Solis
+684,Carabela,Javier Solis
+685,Y,Javier Solis
+686,Vendaval Sin Rumbo,Javier Solis
+687,Que Se Mueran De Envidia,Javier Solis
+688,Si Dios Me Quita la Vida,Javier Solis
+689,En Tu PELO,Javier Solis
+690,Besame y Olvidame,Javier Solis
+691,Esta Tristeza Mia,Javier Solis
+692,El Loco,Javier Solis
+693,Las Rejas No Matan,Javier Solis
+694,Ayudame Dios Mio,Javier Solis
+695,Payaso,Javier Solis
+696,Las Rejas No Matan,Javier Solis
+697,Elloco,Javier Solis
+698,Sombras,Javier Solis
+699,Cuando Calienta el Sol,Javier Solis
+700,Payaso,Javier Solis
+701,Y,Javier Solis
+702,En Mi Viejo San Juan,Javier Solis
+703,Que Va,Javier Solis
+704,Entrega Total,Javier Solis
+705,En Tu PELO,Javier Solis
+706,Esclavo y Amo,Javier Solis
+707,Luz De Luna,Javier Solis
+708,Escandalo,Javier Solis
+709,Echame a Mi la Culpa,Javier Solis
+710,Lloraras, Lloraras,Javier Solis
+711,Cenizas,Javier Solis
+712,He Sabido Que Te Amaba,Javier Solis
+713,El Loco,Javier Solis
+714,Lamento Borincano,Javier Solis
+715,Renunciacion,Javier Solis
+716,Si Dios Me Quita la Vida,Javier Solis
+717,Moliendo Café,Javier Solis
+718,Amigo Organillero,Javier Solis
+719,La Corriente,Javier Solis
+720,Ojitos Traidores,Javier Solis
+721,Esta Tristeza Mia,Javier Solis
+722,Amor Se Paga Con Amor,Jennifer Lopez
+723,On The Floor,Jennifer Lopez & Pitbull
+724,Rock del Angelito,Jimmy Rodgers
+725,PenELOpe,Joan Manuel Serrat
+726,Cantares,Joan Manuel Serrat
+727,PenELOpe,Joan Manuel Serrat
+728,Tu Nombre Me Sabe a Hierba,Joan Manuel Serrat
+729,Esos Locos Bajitos,Joan Manuel Serrat
+730,Hoy Puede Se Un Gran Dia,Joan Manuel Serrat
+731,De Carton Piedra,Joan Manuel Serrat
+732,Aquellas Prequenas Cosas,Joan Manuel Serrat
+733,Fiesta,Joan Manuel Serrat
+734,Señora,Joan Manuel Serrat
+735,Secreto De Amor,Joan Sebastian
+736,Un Idiota,Joan Sebastian
+737,Tatuajes,Joan Sebastian
+738,El Taxista,Joan Sebastian
+739,Juliantla,Joan Sebastian
+740,Rumores,Joan Sebastian
+741,Llorar,Joan Sebastian
+742,Secreto De Amor,Joan Sebastian
+743,Negra Consentida,Joaquin P.
+744,Y Nos Dieron las Diez,Joaquin Sabina
+745,Y Nos Dieron las Diez,Joaquin Sabina
+746,Otro Dias Mas Sin Verte,Jon Secada
+747,Si Te Vas,Jon Secada
+748,Por Amor,Jon Secada-Gloria Estefan
+749,Pais Tropical (Brazilian),Jorge Ben
+750,Sapo Cancionero,Jorge Chagra
+751,Quitame a Ese Hombre del Corazon,Jorge Luis Piloto
+752,Juguete,Jorge Massias
+753,Con la Misma Piedra,Jorge Massias
+754,Como Te Voy a Olvidar,Jorge Mejia
+755,No Prometas Lo Que No Sera,Jorge Muñiz-Maria del Sol
+756,Viva Mexico,Jorge Negrete
+757,La Media Vuelta,Jose Alfredo Jimenez
+758,Amaneci En Tus Brazos,Jose Alfredo Jimenez
+759,Pa Todo el Año,Jose Alfredo Jimenez
+760,Amarga Navidad,Jose Alfredo Jimenez
+761,Cuando Vivas Conmigo,Jose Alfredo Jimenez
+762,Corazon Corazon,Jose Alfredo Jimenez
+763,Poco a Poco,Jose Alfredo Jimenez
+764,Serenata Sin Luna,Jose Alfredo Jimenez
+765,Ella,Jose Alfredo Jimenez
+766,Pa Todo el Año,Jose Alfredo Jimenez
+767,Declarate Inocente,Jose Alfredo Jimenez
+768,Amaneci En Tus Brazos,Jose Alfredo Jimenez
+769,Cuando Vivas Conmigo,Jose Alfredo Jimenez
+770,La Enorme Distancia,Jose Alfredo Jimenez
+771,La Que Se Fue,Jose Alfredo Jimenez
+772,Tu y las Nubes,Jose Alfredo Jimenez
+773,Que Bonito Amor,Jose Alfredo Jimenez
+774,Amarga Navidad,Jose Alfredo Jimenez
+775,Serenata Sin Luna,Jose Alfredo Jimenez
+776,Amaneci En Tus Brazos,Jose Alfredo Jimenez
+777,El Siete Mares,Jose Alfredo Jimenez
+778,Echame a Mi la Culpa,Jose Angel Espinoza
+779,Me Llamo Raquel,Jose Antonio Coria
+780,Feliz Navidad,Jose Feliciano
+781,Que No Quede Huella,Jose G. Esparza
+782,El Amor Acaba,Jose Jose
+783,Pero Te Extraño,Jose Jose
+784,Y que?,Jose Jose
+785,Almohada,Jose Jose
+786,Cuidado,Jose Jose
+787,Payaso,Jose Jose
+788,La Nave Del Olvido,Jose Jose
+789,Me Basta,Jose Jose
+790,Nadie Simplemente Nadie,Jose Jose
+791,Solo Una Mujer,Jose Jose
+792,Quemame Los Ojos,Jose Jose
+793,Lo Pasado Pasado,Jose Jose
+794,Almohada,Jose Jose
+795,Lo Pasado Pasado,Jose Jose
+796,Cuando Vayas Conmigo,Jose Jose
+797,No Me Platiques Mas,Jose Jose
+798,Mi Vida,Jose Jose
+799,Cosas Imposibles,Jose Jose
+800,El Triste,Jose Jose
+801,Mi Nina,Jose Jose
+802,Desesperado,Jose Jose
+803,Lo Dudo,Jose Jose
+804,Del Altar a la Tumba,Jose Jose
+805,Preso,Jose Jose
+806,Solo Yo Seguire Siendo Tuyo,Jose Jose
+807,Alguien Vendra,Jose Jose
+808,Entre Ella y Tu,Jose Jose
+809,Quiero Que Brindemos Por Ella,Jose Jose-Jose Feliciano
+810,Te Quiero Asi,Jose Jose-Lani Hall
+811,Te Quiero Asi,Jose Jose-Lany Hall
+812,Tiempo y Destiempo,Jose Jose-Marco a Muñiz
+813,Y Como Es El,Jose Luis Perales
+814,Me Llamas,Jose Luis Perales
+815,Mujer Contra Mujer,Jose Ma. Cano
+816,Vive,Jose Maria Napoleon
+817,Eres,Jose Maria Napoleon
+818,Martha (Ella Se Llamaba),Jose Maria Napoleon
+819,Eres,Jose Maria Napoleon
+820,Hombre,Jose Maria Napoleon
+821,Vive,Jose Maria Napoleon
+822,Con Mis Alas Rotas,Jose Roberto Martinez
+823,Lamparas Sin Luz,Jose Torres
+824,Garufa,Juan Antonio Callazo
+825,Soy Feliz,Juan Bruno Tarraza
+826,La Incondicional,Juan Carlos Calderon
+827,Noche De Copas,Juan Carlos Calderon
+828,La Pollera Colora,Juan Carlos Madera
+829,Caminito,Juan De Dios Filiberto
+830,Nadie Baila Como Tu,Juan Gabriel
+831,La Guirnalda,Juan Gabriel
+832,Abrazame Muy Fuerte,Juan Gabriel
+833,Dejame Vivir,Juan Gabriel-Rocio Durcal
+834,Que Me Des Tu Carino,Juan Luis Guerra
+835,Bendita Tu Luz,Juan Luis Guerra & Mana
+836,Cariño Verdad,Juan Mendoza
+837,Por Que Me Habras Besado,Juan Pardo-Rocio Jurado
+838,Ahora Que Soy Libre,Juan y Juan
+839,La Camisa Negra,Juanes
+840,La Camisa Negra,Juanes
+841,A Dios Le Pido,Juanes
+842,Lo Que Me Gusta A Mi,Juanes
+843,Me Enamora,Juanes
+844,Lento,Julieta Venegas
+845,Lento,Julieta Venegas
+846,Andar Conmigo,Julieta Venegas
+847,Limon y Sal,Julieta Venegas
+848,Me Voy,Julieta Venegas
+849,Eres Para Mi,Julieta Venegas
+850,Inolvidable,Julio Gutierrez
+851,Por el Amor De Una Mujer,Julio Iglesias
+852,Hey,Julio Iglesias
+853,Soy Un Truhan Soy Un Señor,Julio Iglesias
+854,Por el Amor De Una Mujer,Julio Iglesias
+855,Hey,Julio Iglesias
+856,Me Olvide De Vivir,Julio Iglesias
+857,Zar la Vida,Julio Iglesias
+858,A Flor De Piel,Julio Iglesias
+859,A Veces Tu, a Veces Yo,Julio Iglesias
+860,Alma Llanera,Julio Iglesias
+861,Caminito,Julio Iglesias
+862,El Amor,Julio Iglesias
+863,Me Olvide De Vivir,Julio Iglesias
+864,Por el Amor De Una Mujer,Julio Iglesias
+865,Quiereme,Julio Iglesias
+866,Sono Io,Julio Iglesias
+867,Un Canto a Galicia,Julio Iglesias
+868,Rio Rebelde,Julio Iglesias
+869,Si Vuelves a Besarme Asi,K-Libre
+870,Con Olor a Hierba,K-Paz De la Siera
+871,Mi Credo,K-Paz De la Sierra
+872,Volvere,K-Paz De la Sierra
+873,Pero Te Vas a Arrepentir,K-Paz De la Sierra
+874,La Calle De las Sirenas,Kabah
+875,Amor De Estudiante,Kabah
+876,La Vida Que Va,Kabah
+877,Dile Que la Amo,Kairo
+878,No Me Quiero Enamorar,Kalimba
+879,Tu Corazon Lo Sabe,Kalimba
+880,No Me Quiero Enamorar,Kalimba
+881,Tu Corazón Lo Sabe,Kalimba
+882,Me Estoy Enamorando,Kike Santander
+883,Si Tu Supieras,Kike Santander
+884,No Se Olvidar,Kike Santander
+885,Azul,Kike Santander
+886,Tantita Pena,Kiko Campos
+887,Como Es Posible Que a Mi Lado,Kilo Cobrion
+888,Los Hombres No Deben Llorar,King Clave
+889,Na Na Na (Dulce Niña),Kumbia Kings
+890,Sabes a Chocolate,Kumbia Kings
+891,A Que Te Pongo,Kumbia Kings
+892,Azucar,Kumbia Kings
+893,Boom Boom,Kumbia Kings
+894,Desde Que No Estas Aqui,Kumbia Kings
+895,Dime Quien,Kumbia Kings
+896,Fuego,Kumbia Kings
+897,Fuiste Mala,Kumbia Kings
+898,Insomnio,Kumbia Kings
+899,No Tengo Dinero,Kumbia Kings
+900,Sabes a Chocolate,Kumbia Kings
+901,Shhh,Kumbia Kings
+902,Te Quiero a Ti,Kumbia Kings
+903,Mentira,L y M Cuevas
+904,Entra En Mi Vida,L. Garcia
+905,Kilometros,L. Garcia
+906,Tristes Recuerdos,Lara Catarino
+907,Soy Un Desastre,Lara y Monarrez
+908,Se Fue,Laura Pausini
+909,Vive Ya,Laura Pausini & Andrea Bocelli
+910,Te Juro Que Te Amo,Lauzi Mogol Prudente
+911,Te He Prometido,Leo Dan
+912,Mary Es Mi Amor,Leo Dan
+913,Marisa,Leo Dan
+914,El Ultimo Beso,Leo Dan
+915,Celia,Leo Dan
+916,Como Te Extraño Mi Amor,Leo Dan
+917,Fanny,Leo Dan
+918,Mary Es Mi Amor,Leo Dan
+919,Siempre Estoy Pensando En Ella,Leo Dan
+920,Te He Prometido,Leo Dan
+921,Toquen Mariachis Toquen,Leo Dan
+922,Tu Me Pides Que Te Olvide,Leo Dan
+923,Solo Le Pido a Dios,Leon Gieco
+924,Fuiste Mia Un Verano,Leonardo Favio
+925,O Quiza Simplemente Le Regale Un Arosa,Leonardo Favio
+926,Fuiste Mia Un Verano,Leonardo Favio
+927,Ella Ya Me Olvido,Leonardo Favio
+928,Fuiste Mia Un Verano,Leonardo Favio
+929,Mi Amante Niña, Mi Compañera,Leonardo Favio
+930,Mi Tristeza Es Mia,Leonardo Favio
+931,Ni el Clavel Ni la Rosa,Leonardo Favio
+932,No Juegues Mas,Leonardo Favio
+933,O Quizas Simplemente Te Regale Una Rosa,Leonardo Favio
+934,Quiero Aprender De Memoria,Leonardo Favio
+935,Un Disco Mas,Leopoldo Gonzalez
+936,La Hiedra Venenosa,Lieber - Stoller
+937,El Rock De la Carcel,Lieber - Stoller
+938,Por Cobardia,Lila Deneken
+939,Sentimientos,Limite
+940,Alma Rebelde,Limite
+941,Dos Amores,Lolita De la Colina
+942,Tatuajes,Londres Perez
+943,El Gran Tomas,Loudermille John
+944,Cuentame,Lucero
+945,Lazos De Amor,Lucero
+946,A Partir De Hoy,Lucero
+947,Te Amare Toda la Vida,Lucero
+948,Cuatro Veces Amor,Lucero y Mijares
+949,El Pecador,Lucho Gatica
+950,Bonita,Luis Arcaraz
+951,Sin Tu Latido,Luis Aute
+952,Si Dios Me Quita la Vida,Luis Demetrio
+953,La Puerta,Luis Demetrio
+954,Rosas En el Mar,Luis Eduardo Aute
+955,Tu Amor,Luis Fonsi
+956,Solo Para Ti,Luis G. Escolar
+957,Por Ti Volare,Luis Gomez Roldan
+958,Cuando los Huaraches Se Acaban,Luis Leon Crespo
+959,Los Muchachos De Hoy,Luis Miguel
+960,Palabra De Honor,Luis Miguel
+961,Isabel,Luis Miguel
+962,La Chica del Bikini Azul,Luis Miguel
+963,Suave,Luis Miguel
+964,Pensar En Ti,Luis Miguel
+965,Fria Como el Viento,Luis Miguel
+966,Sera Que No Me Amas,Luis Miguel
+967,Hasta Que Me Olvides,Luis Miguel
+968,America,Luis Miguel
+969,Entregate,Luis Miguel
+970,Oro De Ley,Luis Miguel
+971,Sol Arena y Mar,Luis Miguel
+972,Dame,Luis Miguel
+973,Sueña,Luis Miguel
+974,Amarte Es Un Placer,Luis Miguel
+975,Aun Te Amo,Luis Miguel
+976,Besame Mucho,Luis Miguel
+977,Que Ganas De No Verte Nunca Mas,Lupita D'alessio
+978,Inocente Pobre Amiga,Lupita D'alessio
+979,Que Ganas De No Verte Nunca Mas,Lupita D'alessio
+980,Ni Guerra Ni Paz,Lupita D'alessio
+981,Disculpame,Lupita D'alessio
+982,Mentiras,Lupita D'alessio
+983,Lo Siento Mi Amor,Lupita D'alessio
+984,Mi Corazon Es Un Gitano,Lupita D'alessio
+985,Mentiras,Lupita Dalesio
+986,Lo Siento Mi Amor,Lupita Dalesio
+987,Que Ganas De No Verte Nunca Mas,Lupita Dalesio
+988,Mentiras,Lupita Dalesio
+989,Mudanzas,Lupita Dalesio
+990,Ni Guerra, Ni Paz,Lupita Dalesio
+991,Lo Siento Mi Amor,Lupita Dalesio
+992,Ese Fue Tu Error,Lupita Dalesio
+993,Quien Te Crees Tu,Lupita Dalesio
+994,Se Vende Esta Casa,Lupita Dalesio
+995,Ese Hombre,Lupita Dalesio
+996,Vieras Cuantas Ganas Tengo,Lupita Dalesio
+997,Ya No Regreso Contigo,Lupita Dalesio
+998,Ni Loca,Lupita Dalesio
+999,Que Ganas De No Verte Nunca Mas,Lupita Dalesio
+1000,Inocente Pobre Amiga,Lupitad'alessio
+1001,Lo Siento Mi Amor,Lupitad'alessio
+1002,Te Quiero,Lyon Partnership
+1003,Si las Gotas De Lluvia,Lyon Partnership
+1004,Ayer,M. Davi Foster
+1005,Mi Cariñito,M. Esperon
+1006,La Botella,Mach & Daddy
+1007,Veras,Madonna
+1008,No Lo Hare,Mafia, La
+1009,Pachuco,Maldita Vecindad
+1010,Corazon Espinado,Mana
+1011,Te Solte la Rienda,Mana
+1012,Se Me Olvido Otra Vez,Mana
+1013,Oye Mi Amor,Mana
+1014,Clavado En Un Bar,Mana
+1015,Hechicera,Mana
+1016,Perdido En Un Barco,Mana
+1017,Vivir Sin Aire,Mana
+1018,Huele a Tristeza,Mana
+1019,Como Duele En los Labios,Mana
+1020,Rayando el Sol,Mana
+1021,En el Muelle De San Blas,Mana
+1022,Se Me Olvido Otra Vez,Mana
+1023,Hechicera,Mana
+1024,Tu Tienes Lo Que Quiero,Mana
+1025,Te Llore Un Rio,Mana
+1026,Rayando el Sol,Mana
+1027,Como Te Deseo,Mana
+1028,Clavado En Un Bar,Mana
+1029,Corazon Espinado,Mana
+1030,Oye Mi Amor,Mana
+1031,Labios Compartidos,Mana
+1032,Oye Mi Amor,Mana
+1033,Dejame Entrar,Mana
+1034,Sabanas Frias,Mana Con Ruben Blades
+1035,Hoy Por Ti,Mañana Por Mi - J. Tunne
+1036,Luto En Mi Alma,Manny Delgado
+1037,Ahora Que Soy Libre,Manoella Torres
+1038,Que Me Perdone Tu Señora,Manoella Torres
+1039,Llamarada,Manolo Muñoz
+1040,En Un Rincon del Alma,Manolo Muñoz
+1041,Vamos a Amarnos Mas Despacio,Manuel Alejandro
+1042,Terco Corazon,Manuel Alejandro
+1043,Tengo Mucho Que Aprender De Ti,Manuel Alejandro
+1044,Como Yo Te Amo,Manuel Alejandro
+1045,Ese Hombre,Manuel Alejandro
+1046,Frente a Frente,Manuel Alejandro
+1047,Te Propongo Separarnos,Manuel Alejandro
+1048,En Carne Viva,Manuel Alejandro
+1049,Pobre Diablo,Manuel Alejandro
+1050,Insoportablemente Bella,Manuel Alejandro
+1051,Procura Olvidarte,Manuel Alejandro
+1052,Un Toque De Locura,Manuel Alejandro
+1053,Me Voy a Quitar De En Medio,Manuel Monterrosas
+1054,La Lola,Manuel Quijano
+1055,Adoro,Manzanero
+1056,Contigo Aprendi,Manzanero
+1057,No,Manzanero
+1058,Esta Tarde Vi Llover,Manzanero
+1059,Somos Novios,Manzanero
+1060,Mia,Manzanero
+1061,No Se Tu,Manzanero
+1062,Nada Personal,Manzanero
+1063,Como Yo Te Ame,Manzanero
+1064,Te Extraño,Manzanero
+1065,Voy a Apagar la Luz,Manzanero
+1066,Cuando Estoy Contigo,Manzanero
+1067,Nada Personal,Manzanero  Lisset
+1068,La Plaga,Marascalgo
+1069,Ahora Quien,Marc Anthony
+1070,Vivir Mi Vida,Marc Anthony
+1071,Si No Te Hubieras Ido,Marco a Solis
+1072,La Pareja Ideal,Marco a Solis-Maricela
+1073,O Me Voy O Te Vas,Marco Antonio Solis
+1074,Si No Te Hubieras Ido,Marco Antonio Solis
+1075,El Peor De Mis Fracasos,Marco Antonio Solis
+1076,Se Que Me Vas a Dejar,Marco Antonio Solis
+1077,La Venia Bendita,Marco Antonio Solis
+1078,Si Te Pudiera Mentir,Marco Antonio Solis
+1079,Como Fui a Enamorarme De Ti,Marco Antonio Solis
+1080,El CELOso,Marco Antonio Solis
+1081,Morenita,Marco Antonio Solis
+1082,Si Te Pudiera Mentir,Marco Antonio Solis
+1083,Si No Te Hubiera Ido,Marco Antonio Solis
+1084,O Me Voy O Te Vas,Marco Antonio Solis
+1085,Si No Te Hubieras Ido,Marco Antonio Solis
+1086,La Venia Vendita,Marco Antonio Solis
+1087,Cuando Te Acuerdes De Mi,Marco Antonio Solis
+1088,La Pareja Ideal,Marco Antonio Solis
+1089,El Peor De Mis Fracasos,Marco Antonio Solis
+1090,Que Pena Me Das,Marco Antonio Solis
+1091,Si Te Pudiera Mentir,Marco Antonio Solis
+1092,No Puedo Olvidarla,Marco Antonio Solis
+1093,Que Bello,Margarita
+1094,Que Nadie Sepa Mi Sufrir,Margarita
+1095,Amarraditos,Margarita Duron
+1096,Lo Siento Mi Amor,Maria Alvarez Beigbeder
+1097,Jurame,Maria Greever
+1098,Cuando Vuelva a Tu Lado,Maria Greever
+1099,La Bikina,Mariachi Vargas, El
+1100,Sin El,Maricela
+1101,Mi Problema,Maricela
+1102,Sin El,Maricela
+1103,Mi Problema,Maricela
+1104,Amores De Barra,Marilia Andres Casares
+1105,La Pachanga,Mario Gomez
+1106,Adios Que Te Vaya Bien,Mario Pintor
+1107,Amor a la Mexicana,Mario Pupparo
+1108,Nomas Contigo,Mario Quintero
+1109,Tu Dama De Hierro,Marisela
+1110,Mi Problema,Marisela
+1111,Sola Con Mi Soledad,Marisela
+1112,Arrepentida,Marisela
+1113,Porque Tengo Ganas,Marisela
+1114,Sin El,Marisela
+1115,A Escondidas,Marisela
+1116,Tu Dama De Hierro,Marisela
+1117,Mi Problema,Marisela
+1118,Sola Con Mi Soledad,Marisela
+1119,Sola Con Mi Soledad,Marisela
+1120,Si No Te Hubieras Ido,Marisela
+1121,Tu Dama De Hierro,Marisela
+1122,Vete Mejor,Marisela
+1123,Prefiero Ir Sola,Marisela
+1124,Muriendo De Amor,Marisela
+1125,Amigo Mio, Carino Mio,Marisela
+1126,Ahora No,Marisela
+1127,Sola Con Mi Soledad (Vocal),Marisela
+1128,Si No Te Hubieras Ido (Vocal),Marisela
+1129,Tu Dama De Hierro (Vocal),Marisela
+1130,Vete Mejor (Vocal),Marisela
+1131,Prefiero Ir Sola (Vocal),Marisela
+1132,Muriendo De Amor (Vocal),Marisela
+1133,Amigo Mio Carino Mio (Vocal),Marisela
+1134,Ahora No (Vocal),Marisela
+1135,Ahora Quien,Mark Anthony
+1136,No Mas Contigo,Marlo Quintero
+1137,Vivo Por Ella,Martha Sanchez-Andrea B
+1138,Aca Entre Nos,Martin Urieta
+1139,Que Me Lleven Canciones,Mazz
+1140,Hijo De La Luna,Mecano
+1141,Me Cuesta Tanto Olvidarte,Mecano
+1142,Princesa Tibetana,Memo Mendez
+1143,Mucha Mujer Para Ti,Mene - Rodriguez
+1144,Claridad,Menudo
+1145,Lluvia,Menudo
+1146,Fuego,Menudo
+1147,Enamoradisimo,Mercurio
+1148,Creo En Ti,Mercurio
+1149,Kids,MGMT
+1150,Andres Cabas,Mi Bombon
+1151,Olvidame Tu,Miguel Bose
+1152,Amante Bandido,Miguel Bose
+1153,Si Tu No Vuelves,Miguel Bose
+1154,Los Chicos No Lloran,Miguel Bose
+1155,Duende,Miguel Bose
+1156,Don Diablo,Miguel Bose
+1157,Morena Mia,Miguel Bose
+1158,Morir De Amor,Miguel Bose
+1159,Te Amare,Miguel Bose
+1160,Amiga,Miguel Bose
+1161,Te Dire,Miguel Bose
+1162,Salamandra,Miguel Bose
+1163,Si Tu No Vuelves,Miguel Bose
+1164,Corazones,Miguel Bose-Ana Torroja
+1165,Extraviate,Miguel Luna
+1166,Cuando Seas Grande,Miguel Mateos
+1167,Todo a Pulmon,Miguel Rios
+1168,El Privilegio De Amar,Mijares
+1169,Me Alimento De Ti,Mijares-Daniela Romo
+1170,Mitad Tu,Mitad Yo - Cisneros Sanchez
+1171,El Vendedor,Mocedades
+1172,Piquito De Pollo,Morin - Armando
+1173,Hasta el Limite,Myriam
+1174,Hasta el Límite,Myriam
+1175,Yo Te Voy a Amar,N Sync
+1176,Vivimos Siempre Juntos,Nacho Cano
+1177,Contigo Si,Nadia y Yahir
+1178,Contigo Si,Nadia-Yahir
+1179,Contigo Si,Nadia-Yahir
+1180,Adestes Fideles,Navidad
+1181,Amarga Navidad,Navidad
+1182,Arre Borriquito,Navidad
+1183,Blanca Navidad,Navidad
+1184,Campanas De Belen,Navidad
+1185,El Año Viejo,Navidad
+1186,El Niño del Tambor,Navidad
+1187,Feliz Navidad,Navidad
+1188,Jingle Bells,Navidad
+1189,Los Peces En el Rio,Navidad
+1190,Noche De Paz,Navidad
+1191,Ven a Cantar,Navidad
+1192,Ven a Mi Casa Esta Navidad,Navidad
+1193,Adestes Fideles,Navidad
+1194,Arre Borriquito,Navidad
+1195,Blanca Navidad,Navidad
+1196,Campanas De Belen,Navidad
+1197,El Niño del Tambor,Navidad
+1198,Feliz Navidad,Navidad
+1199,Jingle Bells,Navidad
+1200,Los Peces En el Rio,Navidad
+1201,Me Estan Robando la Fantasia,Navidad
+1202,Mi Burrito Sabanero,Navidad
+1203,Noche De Paz,Navidad
+1204,Rodolfo el Reno,Navidad
+1205,Santa Beso a Mama,Navidad
+1206,Ven a Mi Casa Esta Navidad,Navidad
+1207,Significas Todo Para Mi,Neil Sedaka
+1208,Laura No Esta,Nek
+1209,Laura No Esta,Nek
+1210,Quien Eres Tu,Nelson Ned
+1211,Happy Birthday,My Darling,Nelson Ned
+1212,Quien Eres Tu,Nelson Ned
+1213,Todo Pasara,Nelson Ned
+1214,A Pesar De Todo,Nelson Ned
+1215,Todavia Duele,Nelson Ned
+1216,Contigo Aprendi,Nicho
+1217,Cantares,Nicho
+1218,Y Como Es El,Nicho
+1219,Ay Amor,Nicho
+1220,El Breve Espacio,Nicho
+1221,Te Amo,Nicho
+1222,Fuego Contra Fuego,Nicho
+1223,Santa Lucia,Nicho
+1224,Mariposa Teknicolor,Nicho
+1225,Lo Que No Fue No Sera,Nicho
+1226,Aquellos Ojos Verdes,Nilo Mendez
+1227,Tristeza,Niltinho
+1228,Callados,Ninel Conde-Jose Manuel Figueroa
+1229,Vive En Mi,Nino Buonocore
+1230,Al Norte del Corazon,Norlan - Gisel
+1231,Antes,Obie Bermudes
+1232,Antes,Obie Bermudez
+1233,Flaca O Gordita,Olga Tanon
+1234,Desilusioname,Olga Tanon
+1235,Bandolero (Pop),Olga Tanon
+1236,HiELO y Fuego,Olga Tañon
+1237,Si Tu Boquita Fuera,Oliverio Garcia
+1238,A Puro Dolor,Omar Alfaro
+1239,Un Pie Tras Otro Pie,Onda Vaselina
+1240,Mirame a los Ojos,Onda Vaselina
+1241,Te Quiero Tanto,Onda Vaselina
+1242,Himno a la Alegria,Orbe
+1243,Geografia,Oreja De Van Gogh, La
+1244,La Playa,Oreja De Van Gogh, La
+1245,Rosas,Oreja De Van Gogh, La
+1246,Paris,Oreja De Van Gogh, La
+1247,Geografia,Oreja De Van Gogh, La
+1248,Cuidate,Oreja De Van Gogh, La
+1249,Mariposa,Oreja De Van Gogh, La
+1250,Tu y Yo,Oreja De Van Gogh, La
+1251,Puedes Contar Conmigo,Oreja De Van Gogh, La
+1252,Sacudeme,Orlando Alonso
+1253,Por Ti,Oscar Chavez
+1254,Por Ti,Oscar Chavez
+1255,Quizas Quizas Quizas,Oswaldo Farres
+1256,Acercate Mas,Oswaldo Farres
+1257,Shabadabada,Ov7
+1258,Mas Que Amor,Ov7
+1259,Ven Conmigo,Ov7
+1260,Enloqueceme,Ov7
+1261,Corrido Chihuahua,P. De Lille and F. Bermej
+1262,Despeinada,P. Ortega
+1263,Para Vivir,Pablo Milanes
+1264,Yolanda,Pablo Milanes
+1265,Cuanto Gane,Cuanto Perdi,Pablo Milanes
+1266,Para Vivir,Pablo Milanes
+1267,Las Mil y Una Noches,Pablo Pinilla
+1268,Ven Devorame Otra Vez,Palmer Hdez
+1269,La Llama,Palominos, Los
+1270,Contigo,Panchos, Los
+1271,Frente a Frente,Pandora
+1272,Como Te Va Mi Amor?,Pandora
+1273,Cuando No Estas Conmigo,Pandora
+1274,Como Una Mariposa,Pandora
+1275,Como Te Va Mi Amor,Pandora
+1276,Ni Tu Ni Yo,Pandora
+1277,Con Tu Amor,Pandora
+1278,Matame Suavemente,Pandora
+1279,Eres Divina,Patrulla 81
+1280,Como Pude Enamorarte De Ti,Patrulla 81
+1281,La Flaca,Pau Dones
+1282,Mi Pueblo,Paul Anka
+1283,Tu Cabeza En Mi Hombre,Paul Anka
+1284,La Historia De Mi Amor,Paul Anka
+1285,Asi Que Adios,Paul Anka
+1286,Ritmo Total,Paul Barry
+1287,Te Quise Tanto,Paulina Rubia
+1288,Y Yo Sigo Aquí,Paulina Rubio
+1289,Te Daria Mi Vida,Paulina Rubio
+1290,Lo Hare Por Ti,Paulina Rubio
+1291,El Ultimo Adios,Paulina Rubio
+1292,Mirame a los Ojos,Paulina Rubio
+1293,Yo No Soy Esa Mujer,Paulina Rubio
+1294,Siempre Tuya Desde la Raiz,Paulina Rubio
+1295,Enamorada,Paulina Rubio
+1296,El Me Engaño,Paulina Rubio
+1297,Amor De Mujer,Paulina Rubio
+1298,Nieva Nieva,Paulina Rubio
+1299,Mio,Paulina Rubio
+1300,Mio,Paulina Rubio
+1301,Y Yo Sigo Aquí,Paulina Rubio
+1302,Lo Hare Por Ti,Paulina Rubio
+1303,El Ultimo Adios,Paulina Rubio
+1304,Ayudame,Paulina Rubio
+1305,Ni Una Sola Palabra,Paulina Rubio
+1306,Hoy Tengo Que Decirte Papa,Pedro Damian
+1307,Un Mundo Raro,Pedro Fernandez
+1308,Cuando Sale la Luna,Pedro Fernandez
+1309,El Ultimo Trago,Pedro Fernandez
+1310,Me Quede Con las Ganas,Pedro Fernandez
+1311,Quien,Pedro Fernandez
+1312,Vamos a Platicar,Pedro Fernandez
+1313,Mi Forma De Sentir,Pedro Fernandez
+1314,Serenata Huasteca,Pedro Fernandez
+1315,Lluvia De Plata,Pedro Fernandez
+1316,Sin Verte,Pedro Fernandez
+1317,Laberintos De Pasion,Pedro Fernandez
+1318,Obsesion,Pedro Flores
+1319,Amor Perdido,Pedro Flores
+1320,Perdon,Pedro Flores
+1321,Malagueña Salerosa,Pedro Galindo
+1322,Me Estoy Enamorando,Pepe Aguilar
+1323,Por Mujeres Como Tu,Pepe Aguilar
+1324,Me Estoy Acostumbrando a Ti,Pepe Aguilar
+1325,Esa Mujer,Pepe Aguilar
+1326,Ya Vete,Pepe Aguilar
+1327,Por Una Mujer Bonita,Pepe Aguilar
+1328,Miedo,Pepe Aguilar
+1329,Guadalajara,Pepe Guizar
+1330,Hockey Pockey,Pepe Luis Soto
+1331,Amor Secreto,Perez Botija
+1332,A Tu Encuentro,Pesado
+1333,Asi Es Mi Amor,Pesado
+1334,En Contra De Mi,Pesado
+1335,Enamorate De Mi,Pesado
+1336,Eso Me Gusta,Pesado
+1337,Lastima Me Das,Pesado
+1338,Mi Peor Enemigo,Pesado
+1339,Mira Mija,Pesado
+1340,No Tengas Miedo De Llorar,Pesado
+1341,Para Que Vuelva Contigo,Pesado
+1342,Pideme,Pesado
+1343,Poema,Pesado
+1344,Llegaste a Mi,Pichardo
+1345,Mi Viejo,Piero
+1346,Quitame Ese Hombre,Pilar Montenegro
+1347,A Esa,Pimpinela
+1348,Ahora Decide,Pimpinela
+1349,Fuego Cruzado,Pinilla - Cabañas
+1350,Yo Que No Vivo Sin Ti,Pino Donaccio
+1351,Soy Lo Prohibido,Piruli
+1352,Yo Lo Comprendo,Piruli
+1353,Veronica,Piruli
+1354,Me Quede Con las Ganas,Piruli
+1355,Señora,Piruli
+1356,Me Esta Gustando,Piruli
+1357,Toda Una Vida,Piruli
+1358,Mi Segundo Amor,Piruli
+1359,Te Pido y Te Ruego,Piruli
+1360,Condicion,Piruli
+1361,Felicidad,Piruli
+1362,La Ultima Cancion,Piruli
+1363,Felicidad,Piruli
+1364,Yo Lo Comprendo,Piruli
+1365,Mi Segundo Amor,Piruli
+1366,Señora,Piruli
+1367,Mienteme,Piruli
+1368,Veronica,Piruli
+1369,A Que No,Piruli
+1370,We Are One (Ole Ola),Pitbull Feat. Jennifer Lopez & Claudia Leitte
+1371,Hotel California,Police
+1372,Darte Un Beso,Prince Royce
+1373,Dueño De Nada,Puma, El
+1374,Voy a Conquistarte,Puma, El
+1375,Voy a Perder la Cabeza Por Tu Amor,Puma, El
+1376,El Sol No Regresa,Quinta Estacion, La
+1377,Amada Amante,R. Carlos
+1378,Concavo y Convexo,R. Carlos
+1379,Cien Años,R. Fuentes
+1380,Total,R. Perdomo
+1381,Tus Ojos,Rafael Acosta
+1382,Capullito De Alheli,Rafael Hernandez
+1383,Silencio,Rafael Hernandez
+1384,Perfume De Gardenia,Rafael Hernandez
+1385,No Se Lo Digas a Ella,Rafael Marquez
+1386,Electricidad,Rafael Perez Botija
+1387,Susanita Tiene Un Raton,Rafael Perez Botija
+1388,Volcan,Rafael Perez Botija
+1389,HiELO,Rafael Perez Botija
+1390,Dejame Volver Contigo,Rafael Perez Botija
+1391,Tu Voz,Ramon Cabrera
+1392,Que Tal Te Va Sin Mi,Raphael
+1393,Y Como Es,Raphael
+1394,Yo Soy Aquel,Raphael
+1395,Provocacion,Raphael
+1396,Polvora,Ray Charles
+1397,Por Volverte a Ver,Ray Girado
+1398,Muchachita Consentida,Rayito Colombiano
+1399,Nuestro Amor,Rbd
+1400,Aun Ha Algo,Rbd
+1401,Un Poco De Tu Amor,Rbd
+1402,Otro Dia Que Va,Rbd
+1403,Rebelde,Rbd
+1404,Enseñame,Rbd
+1405,Salvame,Rbd
+1406,Tenerte y Quererte,Rbd
+1407,Solo Quedate En Silencio,Rbd
+1408,Fuego,Rbd
+1409,Cuando el Amor Se Acaba,Rbd
+1410,Santa No Soy,Rbd
+1411,Salvame,Rbd
+1412,Ser O Parecer,Rbd
+1413,Fuego,Rbd
+1414,Inalcanzable,RBD
+1415,Me Duele Amarte,Reik
+1416,Que Vida la Mia,Reik
+1417,Noviembre Sin Ti,Reik
+1418,El Golpe Traidor,Remberto Lopez Garza
+1419,Como Te Extraño,Revolucion Emiliano Z
+1420,Novia Mia,Rey Reyna
+1421,Por los Caminos del Sur,Reybnoso
+1422,Amor del Bueno,Reyli
+1423,Amor del Bueno,Reyli
+1424,Olvidarte,Ricardo Arjona
+1425,Dime Que No,Ricardo Arjona
+1426,Realmente No Estoy Tan Solo,Ricardo Arjona
+1427,Te Conozco,Ricardo Arjona
+1428,A Ti,Ricardo Arjona
+1429,Yo Puedo Hacer,Ricardo Montaner
+1430,Castillos Azul,Ricardo Montaner
+1431,Tan Enamorados,Ricardo Montaner
+1432,Besame,Ricardo Montaner
+1433,En el Ultimo Lugar del Mundo,Ricardo Montaner
+1434,Heridas De Amor,Ricardo Montaner
+1435,Fuego De Noche,Ricky Martin
+1436,Livin' la Vida Loca,Ricky Martin
+1437,La Bomba,Ricky Martin
+1438,La Copa De la Vida,Ricky Martin
+1439,Vuelve,Ricky Martin
+1440,She Bangs,Ricky Martin
+1441,Vuelve,Ricky Martin
+1442,She Bangs (Español),Ricky Martin
+1443,Y Todo Queda En Nada,Ricky Martin
+1444,Drop It on Me,Ricky Martin & Daddy Yankee
+1445,Tu Recuerdo,Ricky Martin & la Mari
+1446,Private Emotion,Ricky Martin & Meja
+1447,Todos los Caminos Van a Ti,Ricky Martin-Sasha
+1448,Mi Amiga,Mi Esposa Mi Amante,Rigo Tovar
+1449,Payasito,Robert Weinstein
+1450,Nunca Voy a Olvidarte,Roberto Balester
+1451,Ponle Remedio,Roberto Blades
+1452,La Barca,Roberto Cantoral
+1453,Al Final,Roberto Cantoral
+1454,Amigo,Roberto Carlos
+1455,Detalles,Roberto Carlos
+1456,Propuesta,Roberto Carlos
+1457,Que Sera De Ti?,Roberto Carlos
+1458,Propuesta,Roberto Carlos
+1459,El Gato Que Esta Triste y Azul,Roberto Carlos
+1460,El Timido,Roberto Pulido
+1461,Cuatro Lagrimas,Roberto Vilchis
+1462,Luna Magica,Rocio Banquells
+1463,La Gata Bajo la Lluvia,Rocio Durcal
+1464,Tarde,Rocio Durcal
+1465,Jamas Te Dejare,Rocio Durcal
+1466,Diferentes,Rocio Durcal
+1467,Como Han Pasado los Años,Rocio Durcal
+1468,Ya Te Olvide,Rocio Durcal
+1469,Como Han Pasado los Años,Rocio Durcal
+1470,No Sirvo Para Estar Sin Ti,Rocio Durcal
+1471,Vestida De Blanco,Rocio Durcal
+1472,Jamas Te Dejare,Rocio Durcal
+1473,Quedate Conmigo Esta Noche,Rocio Durcal
+1474,Como Tu Mujer,Rocio Durcal
+1475,Tu Que Te Fuiste,Rocio Durcal
+1476,Amor No, Gracias,Rocio Durcal
+1477,El Amor Mas Bonito,Rocio Durcal
+1478,Amor En el Aire,Rocio Durcal
+1479,Una Oracion,Rocio Durcal
+1480,Infiel,Rocio Durcal
+1481,Como Han Pasado los Años,Rocio Durcal
+1482,Me Nace del Corazon,Rocio Durcal
+1483,Como Tu Mujer,Rocio Durcal
+1484,Tarde,Rocio Durcal
+1485,Volver a  Verte,Rocio Durcal
+1486,Fue Tan Poco Tu Cariño,Rocio Durcal
+1487,Por Que Fue Que Te Ame,Rocio Durcal
+1488,La Muerte del Palomo,Rocio Durcal
+1489,No Sirvo Para Estar Sin Ti,Rocio Durcal
+1490,Jamas Me Cansare De Ti,Rocio Durcal
+1491,La Gata Bajo la Lluvia,Rocio Durcal
+1492,Fue Un Placer Conocerte,Rocio Durcal
+1493,Señora,Rocio Jurado
+1494,Por Que Me Habras Besado,Rocio Jurado-Juan Pardo
+1495,Como Tu Mujer,Rociodurcal
+1496,Yuyo Mata Yuyo,Rockin Devils, Los
+1497,Gloria,Rockin Devils, Los
+1498,Bule Bule,Rockind Evils, Los
+1499,Juana la Cubana,Rodolfo Olivares
+1500,Propuesta Indecente,Romeo Santos
+1501,Confidente De Secundaria,Ron Hargrave
+1502,Santa Lucia,Roque Narvaja
+1503,Si Tu No Estas,Rosana
+1504,Por Que No Fui Tu Amigo,Rosendo Montiel
+1505,More Than This,Roxy Music
+1506,Ay Preciosa,Roy Orbison
+1507,Lo Mejor De Mi,Rudy Perez
+1508,Pero Me Acuerdo De Ti,Rudy Perez
+1509,Hay Otra En Tu Lugar,Rudy Perez
+1510,El Angel De la Guarda,Salako
+1511,MELOdia De Amor,Salvador - Lanjean
+1512,Presumida,Samwell - Martinez
+1513,El Bigote,Santi Luis Theodosio
+1514,Afuera,Saul Hernandez
+1515,La Locura Automatica,Secta All Star, La
+1516,Amor Prohibido,Selena
+1517,No Me Queda Mas,Selena
+1518,Como la Flor,Selena
+1519,Amor Prohibido,Selena
+1520,Baila Mi Cumbia,Selena
+1521,Bidi Bidi Bom Bom,Selena
+1522,Como la Flor,Selena
+1523,El Chico del Apartamento,Selena
+1524,La Carcacha,Selena
+1525,La Llamada,Selena
+1526,La Techno Cumbia,Selena
+1527,No Debes Jugar,Selena
+1528,Si Una Vez,Selena
+1529,Fuego y Pasion,Sentidos Opuestos
+1530,Eternamente,Sentidos Opuestos
+1531,Dalma  Bailar Pegados,Sergio Dalma
+1532,Flores Negras,Sergio De Karlo
+1533,Hay Amores y Amores,Sergio Facheli
+1534,Fan Enamorada,Servando y Florentino
+1535,Ciega Sordomuda,Shakira
+1536,Estoy Aquí,Shakira
+1537,Suerte,Shakira
+1538,Te Aviso Te Anuncio,Shakira
+1539,Te Dejo Madrid,Shakira
+1540,Donde Estas Corazon,Shakira
+1541,Moscas En la Casa,Shakira
+1542,Antologa,Shakira
+1543,Si Te Vas,Shakira
+1544,Octavo Dia,Shakira
+1545,Underneath Your Clothes,Shakira
+1546,Suerte,Shakira
+1547,Pies Descalzos,Shakira
+1548,Don't Bother,Shakira
+1549,Hips Don't Lie,Shakira & Wyclef Jean
+1550,Ojala,Silvio Rodriguez
+1551,Unicornio,Silvio Rodriguez
+1552,Ojala,Silvio Rodriguez
+1553,Unicornio Azul,Silvio Rodriguez
+1554,Te Doy Una Cancion,Silvio Rodriguez
+1555,1 2 3,Simbolo, El
+1556,Levantando las Manos,Simbolo, El
+1557,1 2 3,Simbolo, El
+1558,Caballo Viejo (Llanera),Simon Diaz
+1559,Te Vi Venir,Sin Bandera
+1560,Amor Real,Sin Bandera
+1561,Si la Vez,Sin Bandera
+1562,Que Me Alcance la Vida,Sin Bandera
+1563,Suelta Mi Mano,Sin Bandera
+1564,Si Tu No Estas Aqui,Sin Bandera
+1565,Sera,Sin Bandera
+1566,Chica Alborotada,Slay - Crewe
+1567,Como,Sociedad, La
+1568,Vamos a Platicar,Socios del Ritmo
+1569,Llorar,Socios del Ritmo, Los
+1570,A Punto De CaramELO,Socios del Ritmo, Los
+1571,Persiana Americana,Soda Estereo
+1572,En la Ciudad De la Furia,Soda Stereo
+1573,Nada Personal,Soda Stereo
+1574,Lo Que Sangra (La Cupula),Soda Stereo
+1575,Sobredosis De Tv,Soda Stereo
+1576,Camaleon,Soda Stereo
+1577,Tratame Suavemente,Soda Stereo
+1578,De Música Ligera Karaoke,Soda Stereo
+1579,Dile la Verdad,Solido
+1580,Nada De Ti,Solido
+1581,Tal Vez,Solido
+1582,Tu,Solo Tu - Felipe Valdez Leal
+1583,Que Nadie Sepa Mi Sufrir,Sonora Dinamita
+1584,Se Me Perdio la Cadenita,Sonora Dinamita
+1585,Mi Cu Cu,Sonora Dinamita
+1586,El Africano,Sonora Dinamita
+1587,Capullo y Sorullo,Sonora Dinamita
+1588,Oye,Sonora Dinamita
+1589,Saca la Maleta,Sonora Dinamita
+1590,Si Vos Te Vas,Sonora Dinamita
+1591,A Mover la Colita,Sonora Dinamita
+1592,Mil Horas,Sonora Dinamita
+1593,Cumbia Barulera,Sonora Dinamita
+1594,Maruja,Sonora Dinamita
+1595,Perfume De Gardenias,Sonora Santanera
+1596,La Boa,Sonora Santanera
+1597,Amor De Cabaret,Sonora Santanera
+1598,El Mudo,Sonora Santanera
+1599,Estoy Pensando En Ti,Sonora Santanera
+1600,Luces De Nueva York,Sonora Santanera
+1601,Mi Adios,Sonora Santanera
+1602,Donde Estas Yolanda,Sonora Santanera
+1603,Mi Razon,Sonora Santanera
+1604,Por las Calles De Mexico,Sonora Santanera
+1605,La Cumbia del Torero,Sonora Santanera
+1606,El Orangutan,Sonora Santanera
+1607,De Repente,Soraya
+1608,Vete Con Ella,Spector Phillip
+1609,Desesperada,Steven Singer
+1610,Every Breath You Take,Sting
+1611,Te Aviso,Te Anuncio - Shakira
+1612,Toda Una Vida,Tecolines, Los
+1613,Alborada,Tecolines, Los
+1614,Popotitos,Teen Tops, Los
+1615,L Aplaga  Diablo Con Vestido Azul,Teen Tops, Los
+1616,Buen Rock Esta Noche,Teen Tops, Los
+1617,Sigue Llamando,Teen Tops, Los
+1618,Presumida,Teen Tops, Los
+1619,El Rock De la Carcel,Teen Tops, Los
+1620,Quien Puso el Bomp,Teen Tops, Los
+1621,Quiero Ser Libre,Teen Tops, Los
+1622,Lucila,Teen Tops, Los
+1623,Anoche No Dormi,Teen Tops, Los
+1624,Me Quede Contigo,Teen Tops, Los
+1625,Por Amor,Thalia
+1626,Sangre,Thalia
+1627,Noches Sin Luna,Thalia
+1628,Arrasando,Thalia
+1629,Piel Morena,Thalia
+1630,Amar Sin Ser Amada,Thalia
+1631,A Quien Le Importa,Thalia
+1632,Accion y Reaccion,Thalia
+1633,Amor a la Mexicana,Thalia
+1634,Arrasando,Thalia
+1635,Cerca De Ti,Thalia
+1636,En Esta Fiesta Mando Yo,Thalia
+1637,Entre el Mar y Una Estrella,Thalia
+1638,La Revancha,Thalia
+1639,Maria la del Barrio,Thalia
+1640,Mujer Latina,Thalia
+1641,Piel Morena,Thalia
+1642,Regresa a Mi,Thalia
+1643,Rosalinda,Thalia
+1644,Tu y Yo,Thalia
+1645,No No No,Thalia & Aventura
+1646,Besos De Ceniza,Timbiriche
+1647,Si No Es Ahora,Timbiriche
+1648,Con Todos Menos Conmigo,Timbiriche
+1649,Tu y Yo,Timbiriche
+1650,Si No Es Ahora,Timbiriche
+1651,Corro VuELO Me Acelero,Timbiriche
+1652,Noches De Verano,Timbiriche
+1653,Perdona,Tizano Ferro
+1654,Paloma Negra,Tomas Mendez
+1655,Mi Vida De Borracho,Tony De la Rosa
+1656,Chayanne,Torero
+1657,Blanca Navidad,Tradicional
+1658,Noche De Paz,Tradicional
+1659,Feliz Navidad,Tradicional
+1660,Estoy Perdido,Tres Ases, Los
+1661,Noche No Te Vayas,Tres Caballeros, Los
+1662,Amor Mio,Tres De Copas
+1663,Amor Mío,Tres De Copas
+1664,Divina Ilusion,Tres Diamantes, Los
+1665,Embrujo,Tres Diamantes, Los
+1666,Amor Que Malo Eres,Tres Diamantes, Los
+1667,Carca del Mar,Tres Reyes, Los
+1668,La Chona,Tucanes De Tijuana, Los
+1669,El Tucanazo,Tucanes De Tijuana, Los
+1670,With or Without You,U2
+1671,Como Un Burro Amarrado a la Puerta del Baile,Ultimo De la Fila, El
+1672,Lo Que Mas Te Ha Querido,Valdez Miranda
+1673,Gloria,Van Morrison
+1674,Sin Bandera,Ves
+1675,Motivos (Un Motivo),Vicente Fernandez
+1676,Yo Quiero Ser,Vicente Fernandez
+1677,Novia Mia,Vicente Fernandez
+1678,Tu Camino y el Mio,Vicente Fernandez
+1679,Yo Quiero Ser,Vicente Fernandez
+1680,Lastima Que Seas Ajena,Vicente Fernandez
+1681,Por Tu Maldito Amor,Vicente Fernandez
+1682,Las Llaves De Mi Alma,Vicente Fernandez
+1683,Si Acaso Vuelves,Vicente Fernandez
+1684,Aprendiste a Volar,Vicente Fernandez
+1685,Lobo Herido,Vicente Fernandez
+1686,De Que Manera Te Olvido,Vicente Fernandez
+1687,Mujeres Divinas,Vicente Fernandez
+1688,Las Llaves De Mi Alma,Vicente Fernandez
+1689,No Volvere,Vicente Fernandez
+1690,Me Voy a Quitar De Enmedio,Vicente Fernandez
+1691,Sublime Mujer,Vicente Fernandez
+1692,Amor De Dos,Vicente Fernandez
+1693,Tu Camino y el Mio,Vicente Fernandez
+1694,Aprendiste a Volar,Vicente Fernandez
+1695,Yo Quiero Ser,Vicente Fernandez
+1696,Entre el Amor y Yo,Vicente Fernandez
+1697,Aca Entre Nos,Vicente Fernandez
+1698,No Me Platiques Mas,Vicente Garrido
+1699,Dos Hojas Sin Rumbo,Victor Cordero
+1700,La Vida Es Un Carnaval,Victor Daniel
+1701,Yo Se Que Te Acordaras,Victor Daniel
+1702,Hermoso Cariño,Victor Fernandez
+1703,Solo Pienso En Ti,Victor Manuel
+1704,Quiero Abrazarte Tanto,Victor Manuel
+1705,Quiero Abrazarte Tanto,Vitor Manuel
+1706,Corro,VuELO Me Acelero - Timbiriche
+1707,Cenizas,Wello Rivas
+1708,Wake Me Up Before You Go Go,Wham
+1709,El Baile del Perrito,Wilfrido Vargas
+1710,Popotitos,Williams - Martinez
+1711,La Playa,Xabier San Martin
+1712,Palabras Tristes,Xaviar Santos
+1713,Corazoncito Pum Pum,Yaguaru
+1714,No Te Voy a Perdonar,Yaguaru
+1715,La Locura,Yahir
+1716,La Locura,Yahir
+1717,Maldita Primavera,Yuri
+1718,Yo Te Pido Amor,Yuri
+1719,Es Ella Mas Que Yo,Yuri
+1720,Yo Te Pido Amor,Yuri
+1721,Es Ella Ms Que Yo,Yuri
+1722,Y Ahora Juntos,Yuri-Oscar Athie
+1723,Angel,Yuridia
+1724,Dejame Volver Contigo,Yuridia
+1725,Maldita Primavera,Yuridia
+1726,Amame,Yuridia
+1727,Mi Forma De Ser,Yuridia
+1728,Como Yo Te Amo,Yuridia
+1729,Sobrevivire,Yuridia
+1730,Asi Fue,Yuridia
+1731,Daria,Yuridia
+1732,Lo Siento Mi Amor,Yuridia
+1733,Si No Te Hubieras Ido,Yuridia
+1734,Mentira,Yuridia
+1735,No Bailes De Caballito,Zamudio
+1736,La Nina Fresa,Ze Luis
+1737,La Gota Fria,Zuleta Emiliano
