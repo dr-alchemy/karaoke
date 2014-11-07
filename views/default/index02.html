@@ -1,0 +1,37 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{=URL('static','jquery.mobile/jquery.mobile-1.4.4.min.css')}}">
+    <script src="{{=URL('static','jquery.mobile/jquery.mobile-1.4.4.min.js')}}"></script>
+
+    <script src="{{=URL('static','js/angular.min.js')}}"></script>
+    <script src="{{=URL('static','js/karaoke.js')}}"></script>
+    <title></title>
+</head>
+<body ng-app="myApp" ng-controller="karaokeController">
+
+    <label>Search by Song:</label>
+    <input type="text" ng-model="search.title" />
+    <br>
+    <label>Search by Artist:</label>
+    <input type="text" ng-model="search.artist" />
+
+<table>
+    <tr>
+        <th>
+            <a href="" ng-click="sortItem = 'title'; reverse=!reverse">Song</a>
+        </th>
+        
+        <th>
+            <a href="" ng-click="sortItem = 'artist'; reverse=!reverse">Artist</a>
+        </th>
+    </tr>
+    <tr ng-repeat="song in songs | filter:search | orderBy:sortItem:reverse">
+        <td>{[{ song.title }]}</td>
+        <td>{[{ song.artist }]}</td>
+    </tr>
+</table>
+
+
+</body>
+</html>
