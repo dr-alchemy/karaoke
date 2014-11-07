@@ -16,16 +16,19 @@
   <div data-role="main" class="ui-content">
   <h3>My Phonebook</h3>
 
-  <input data-type="search" placeholder="Search for songs or artists..." ng-model="search.$" ng-change="hello()" />
+  <!-- <input data-type="search" placeholder="Search for songs or artists..." ng-model="search.$" ng-change="hello()" /> -->
 
-  <ul data-role="listview" data-inset="true" ng-repeat="(k, v) in sortedSongs">
+  <form class="ui-filterable">
+    <input id="myFilter" data-type="search">
+  </form>
+
+  <ul data-role="listview" data-inset="true" data-autodividers="true" data-filter="true" data-input="#myFilter">
     
-      <li data-role="list-divider">{[{ k }]}</li>
-    
-      <li ng-repeat="item in v | filter:search | orderBy:sortItem:reverse">
-        <a href="#">{[{ item.artist }]}  -  {[{ item.title }]}</a>
+      {{ for x in rows:}}
+      <li>
+        <a href="#">{{ =x.artist }}  -  {{ =x.title }}</a>
       </li>    
-
+      {{pass}}
   </ul>
   
   </div>

@@ -15,6 +15,10 @@ def index():
 def index02():
     return dict(message=T('Hello Karaoke'))
 
+def index03():
+    rows = db(db.songs).select()
+    return dict(rows=rows)
+
 def get_songs():
     rows = db(db.songs).select()
     return rows.sort(lambda row: row.title).json()
